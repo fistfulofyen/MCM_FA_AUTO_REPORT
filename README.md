@@ -1,6 +1,6 @@
 # Student Data Analysis with Pandas
 
-This repository contains a Python script that utilizes the Pandas library to analyze student data from a CSV file. The script performs various data manipulations and calculations to obtain statistics based on specific criteria.
+This repository contains a Python script that utilizes the Pandas library to analyze student data from a CSV file. The script performs various data manipulations and calculations to obtain statistics based on FA specific criteria.
 
 ## Getting Started
 
